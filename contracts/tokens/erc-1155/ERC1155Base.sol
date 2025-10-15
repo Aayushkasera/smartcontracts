@@ -81,3 +81,4 @@ abstract contract ERC1155Base is
 
     uint256[50] private __gap;
 }
+
